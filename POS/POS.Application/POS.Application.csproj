@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\POS.Domain\POS.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Auth\Requests\" />
+    <Folder Include="DTOs\Auth\Responses\" />
+    <Folder Include="DTOs\Auth\Validators\" />
+    <Folder Include="DTOs\Branches\Requests\" />
+    <Folder Include="DTOs\Branches\Responses\" />
+    <Folder Include="DTOs\Branches\Validators\" />
+    <Folder Include="DTOs\Sales\Requests\" />
+    <Folder Include="DTOs\Sales\Responses\" />
+    <Folder Include="DTOs\Sales\Validators\" />
+    <Folder Include="DTOs\Products\Validators\" />
+    <Folder Include="DTOs\Products\Responses\" />
+    <Folder Include="DTOs\Products\Requests\" />
+    <Folder Include="Features\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+
+</Project>

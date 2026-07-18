@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POS Project\\POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC9C907-4AA3-457A-B61B-EAB5CCFAAC61}|POS.Infrastructure\\POS.Infrastructure.csproj|d:\\pos project\\pos\\pos.infrastructure\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC9C907-4AA3-457A-B61B-EAB5CCFAAC61}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC9C907-4AA3-457A-B61B-EAB5CCFAAC61}|POS.Infrastructure\\POS.Infrastructure.csproj|d:\\pos project\\pos\\pos.infrastructure\\repositories\\interfaces\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC9C907-4AA3-457A-B61B-EAB5CCFAAC61}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\interfaces\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|d:\\pos project\\pos\\pos.application\\services\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\services\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|d:\\pos project\\pos\\pos.application\\services\\interfaces\\iproductcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\services\\interfaces\\iproductcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|d:\\pos project\\pos\\pos.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|d:\\pos project\\pos\\pos.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|d:\\pos project\\pos\\pos.api\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|d:\\pos project\\pos\\pos.domain\\entities\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\entities\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|d:\\pos project\\pos\\pos.application\\pos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\pos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|d:\\pos project\\pos\\pos.api\\pos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\pos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|d:\\pos project\\pos\\pos.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|d:\\pos project\\pos\\pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|d:\\pos project\\pos\\pos.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D33E4D-E1C4-45ED-936D-EC45B5DE4589}|POS.API\\POS.API.csproj|solutionrelative:pos.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC9C907-4AA3-457A-B61B-EAB5CCFAAC61}|POS.Infrastructure\\POS.Infrastructure.csproj|d:\\pos project\\pos\\pos.infrastructure\\pos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BC9C907-4AA3-457A-B61B-EAB5CCFAAC61}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\pos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|d:\\pos project\\pos\\pos.domain\\pos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\pos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|d:\\pos project\\pos\\pos.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63DA99-F52B-4557-8207-DD270B212EAD}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|d:\\pos project\\pos\\pos.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19D90EC-5699-44A8-B639-3D8537F4C236}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategoryRepository.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Infrastructure\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Repositories\\ProductCategoryRepository.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Infrastructure\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Repositories\\ProductCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:56:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductCategoryRepository.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Infrastructure\\Repositories\\Interfaces\\IProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Repositories\\Interfaces\\IProductCategoryRepository.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Infrastructure\\Repositories\\Interfaces\\IProductCategoryRepository.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Repositories\\Interfaces\\IProductCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:55:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCategoryService.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Application\\Services\\ProductCategoryService.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Services\\ProductCategoryService.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Application\\Services\\ProductCategoryService.cs",
+              "RelativeToolTip": "POS.Application\\Services\\ProductCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:54:38.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductCategoryService.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Application\\Services\\Interfaces\\IProductCategoryService.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Services\\Interfaces\\IProductCategoryService.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Application\\Services\\Interfaces\\IProductCategoryService.cs",
+              "RelativeToolTip": "POS.Application\\Services\\Interfaces\\IProductCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:53:27.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.API\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "POS.API\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.API\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "POS.API\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:46:13.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Domain\\Entities\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "POS.Domain\\Entities\\BaseResponse.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Domain\\Entities\\BaseResponse.cs",
+              "RelativeToolTip": "POS.Domain\\Entities\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:36:06.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "POS.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "POS.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:08:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.API\\Program.cs",
+              "RelativeDocumentMoniker": "POS.API\\Program.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.API\\Program.cs",
+              "RelativeToolTip": "POS.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:06:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "POS.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:05:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "POS.Application\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:04:25.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "POS.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "POS.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:02:45.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "POS.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\POS.Infrastructure.csproj",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+              "RelativeToolTip": "POS.Infrastructure\\POS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T08:44:28.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "POS.Application.csproj",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Application\\POS.Application.csproj",
+              "RelativeDocumentMoniker": "POS.Application\\POS.Application.csproj",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Application\\POS.Application.csproj",
+              "RelativeToolTip": "POS.Application\\POS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T08:43:01.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "POS.Domain.csproj",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Domain\\POS.Domain.csproj",
+              "RelativeDocumentMoniker": "POS.Domain\\POS.Domain.csproj",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Domain\\POS.Domain.csproj",
+              "RelativeToolTip": "POS.Domain\\POS.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T08:41:12.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "POS.API.csproj",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.API\\POS.API.csproj",
+              "RelativeDocumentMoniker": "POS.API\\POS.API.csproj",
+              "ToolTip": "D:\\POS Project\\POS\\POS.API\\POS.API.csproj",
+              "RelativeToolTip": "POS.API\\POS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T08:40:12.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "POS.Domain\\Class1.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Domain\\Class1.cs",
+              "RelativeToolTip": "POS.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:17:09.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\POS Project\\POS\\POS.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Class1.cs",
+              "ToolTip": "D:\\POS Project\\POS\\POS.Application\\Class1.cs",
+              "RelativeToolTip": "POS.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:15:02.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
