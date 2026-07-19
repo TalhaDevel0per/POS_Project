@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/POS/POS.API/bin/Debug/net8.0
+/POS/POS.Domain/bin/Debug/net8.0
+/POS/POS.Infrastructure/bin/Debug/net8.0
+/POS/POS.Application/bin/Debug/net8.0
