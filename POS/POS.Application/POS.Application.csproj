@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\POS.Domain\POS.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="DTOs\Auth\Requests\" />
     <Folder Include="DTOs\Auth\Responses\" />
     <Folder Include="DTOs\Auth\Validators\" />
@@ -27,6 +23,10 @@
     <Folder Include="Mappings\" />
     <Folder Include="Exceptions\" />
     <Folder Include="Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\POS.Infrastructure\POS.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

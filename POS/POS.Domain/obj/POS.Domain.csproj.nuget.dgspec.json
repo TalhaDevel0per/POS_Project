@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POS Project\\POS\\POS.Domain\\POS.Domain.csproj": {}
+    "D:\\Git&GitHub\\POS_Project\\POS\\POS.Domain\\POS.Domain.csproj": {}
   },
   "projects": {
-    "D:\\POS Project\\POS\\POS.Domain\\POS.Domain.csproj": {
+    "D:\\Git&GitHub\\POS_Project\\POS\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POS Project\\POS\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "D:\\Git&GitHub\\POS_Project\\POS\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "D:\\POS Project\\POS\\POS.Domain\\POS.Domain.csproj",
+        "projectPath": "D:\\Git&GitHub\\POS_Project\\POS\\POS.Domain\\POS.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\POS Project\\POS\\POS.Domain\\obj\\",
+        "outputPath": "D:\\Git&GitHub\\POS_Project\\POS\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

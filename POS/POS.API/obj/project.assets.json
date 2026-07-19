@@ -93,7 +93,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "POS.Domain": "1.0.0"
+          "POS.Infrastructure": "1.0.0"
         },
         "compile": {
           "bin/placeholder/POS.Application.dll": {}
@@ -116,7 +116,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "POS.Application": "1.0.0",
           "POS.Domain": "1.0.0"
         },
         "compile": {
@@ -507,11 +506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POS Project\\POS\\POS.API\\POS.API.csproj",
+      "projectUniqueName": "D:\\Git&GitHub\\POS_Project\\POS\\POS.API\\POS.API.csproj",
       "projectName": "POS.API",
-      "projectPath": "D:\\POS Project\\POS\\POS.API\\POS.API.csproj",
+      "projectPath": "D:\\Git&GitHub\\POS_Project\\POS\\POS.API\\POS.API.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\POS Project\\POS\\POS.API\\obj\\",
+      "outputPath": "D:\\Git&GitHub\\POS_Project\\POS\\POS.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -532,11 +531,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\POS Project\\POS\\POS.Application\\POS.Application.csproj": {
-              "projectPath": "D:\\POS Project\\POS\\POS.Application\\POS.Application.csproj"
+            "D:\\Git&GitHub\\POS_Project\\POS\\POS.Application\\POS.Application.csproj": {
+              "projectPath": "D:\\Git&GitHub\\POS_Project\\POS\\POS.Application\\POS.Application.csproj"
             },
-            "D:\\POS Project\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-              "projectPath": "D:\\POS Project\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj"
+            "D:\\Git&GitHub\\POS_Project\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+              "projectPath": "D:\\Git&GitHub\\POS_Project\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj"
             }
           }
         }

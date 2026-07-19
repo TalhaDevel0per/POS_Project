@@ -1,6 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-using POS.Application.Interfaces;
-using POS.Application.Services;
+
 
 // Add services to the container.
 

@@ -1,0 +1,11 @@
+D:\POS Project\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.deps.json
+D:\POS Project\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.dll
+D:\POS Project\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.pdb
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfoInputs.cache
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfo.cs
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.csproj.CoreCompileInputs.cache
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.dll
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\refint\POS.Domain.dll
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.pdb
+D:\POS Project\POS\POS.Domain\obj\Debug\net8.0\ref\POS.Domain.dll
